@@ -39,7 +39,8 @@ The report dashboard (included as `report final 1.jpg`) highlights:
 ### 👵 Age Group Insights
 - **Age group 79-88** shows the **highest churn rate** and the lowest total charges, indicating low retention and revenue from senior customers.
 
----
+---![report final 1](https://github.com/user-attachments/assets/02d50b01-c1e1-4c55-94ab-2d1519a8a4d8)
+
 
 ## 📂 File Structure
 
